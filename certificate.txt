@@ -1,0 +1,7 @@
+https://api.noopschallenge.com/sortbot/exam/certificate/qR8U5sPNjdTUqpL-GV68u8qzJz27lrWELM_N1FuNMDkz07u1K7uKJsX2QVlENnoR
+
+{
+	"message": "This certifies that IshanManchanda completed the sortbot race in 16.428 seconds.",
+	"elapsed": 16.428,
+	"completed": "2019-06-27T07:18:39.646Z"
+}
